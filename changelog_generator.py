@@ -10,7 +10,6 @@ prefijo convencional (feat:, fix:, docs:, etc.).
 No requiere dependencias externas: usa el binario `git` a través del
 módulo estándar `subprocess`.
 
-Autor: Generado con ayuda de Claude (Anthropic)
 Licencia: MIT
 """
 
