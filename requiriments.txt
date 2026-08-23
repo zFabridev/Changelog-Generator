@@ -1,0 +1,6 @@
+# Este proyecto NO requiere dependencias externas.
+# Usa únicamente la librería estándar de Python (subprocess) y el binario `git`
+# instalado en el sistema.
+#
+# Si prefieres usar GitPython en lugar de subprocess, instala:
+# GitPython>=3.1.40
