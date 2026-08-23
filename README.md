@@ -127,4 +127,4 @@ proyecto2-git-changelog/
 
 ## 📝 Licencia
 
-MIT — libre para usar y modificar.
+MIT — Fabri dev
